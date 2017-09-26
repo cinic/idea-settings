@@ -1,8 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/projects/web-dealer/frontend/src/utils/formatter.js" timestamp="1506442516798">
+        <mark key="[" line="34" column="42" />
+      </file>
+      <file name="$USER_HOME$/projects/web-dealer/frontend/src/actions/individualRisk.js" timestamp="1506442693158">
+        <mark key="[" line="180" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1506435789428">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,6 +31,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
