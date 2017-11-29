@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Prettify" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/projects/web-dealer/frontend/node_modules/prettier/bin/prettier.js" />
+      <option name="PARAMETERS" value="--print-width 100 --write --single-quote --trailing-comma=all $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
