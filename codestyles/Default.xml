@@ -1,12 +1,14 @@
 <code_scheme name="Default">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="100" />
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
   </JSCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="RIGHT_MARGIN" value="80" />
+    <option name="RIGHT_MARGIN" value="100" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
